@@ -1,0 +1,1 @@
+Il conteggio delle parole, escludendo le diverse tabelle presenti nella relazione, ammonta a circa 2600 parole. 
