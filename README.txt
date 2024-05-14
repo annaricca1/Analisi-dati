@@ -1,1 +1,1 @@
-Il conteggio delle parole, escludendo le diverse tabelle presenti nella relazione, ammonta a circa 2600 parole. 
+Progetto realizzato in collaborazione con Alessandro Arena, Alice Bergonzini e Rocco Biondi per l'esame di Analisi di dati del corso di Laurea Magistrale in Informatica Umanistica dell'Università di Pisa. 
